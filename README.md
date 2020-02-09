@@ -19,3 +19,9 @@ Run the production build
 ```
 yarn build
 ```
+
+Run tests
+
+```
+yarn test
+```
