@@ -3,7 +3,8 @@
   "scripts": {
     "dev": "webpack-dev-server --mode development",
     "build": "webpack --mode production",
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "yarn test -- --watch"
   },
   "devDependencies": {
     "@babel/core": "^7.8.3",
